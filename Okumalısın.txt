@@ -15,4 +15,3 @@ Klasörün içinde bulunan servistakip_db içindeki sql dosyasını gerekli yere
 connect.php içine database ayarlarınızı giriniz.
 
 index.php içinde SITE sabitinin yolunu site yolunuz olarak değiştiriniz.
-define('SITE','http://siteniz.com/servistakip/');
